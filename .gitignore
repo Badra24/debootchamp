@@ -1,0 +1,9 @@
+.env
+.env.local
+.env.development
+.env.production
+
+kafka/.env
+db/.env
+spark/.env
+airflow/.env
